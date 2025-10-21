@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+title: Flawless Finish Ceramic Coating
+description: Paint correction and ceramic coating in Palm Springs and Coachella Valley
+url: https://flawlessfini.sh
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Custom domain
+cname: flawlessfini.sh
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
